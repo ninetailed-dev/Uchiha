@@ -4,8 +4,8 @@
     font-family: 'Roboto Condensed', sans-serif;
 }
 .container{
-    width: 100%;
-    height: 100vh;
+    width: 1545px;
+    height: 155vh;
     background-image: url(Images/Background.jpg);
     background-position: center;
     background-size: cover; 
